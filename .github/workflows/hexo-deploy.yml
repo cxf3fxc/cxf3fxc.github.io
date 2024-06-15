@@ -31,6 +31,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          REPOSITORY_NAME: xeonds/xeonds.github.io
+          REPOSITORY_NAME: cxf3fxc/cxf3fxc.github.io
           BRANCH: html
           FOLDER: public
